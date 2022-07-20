@@ -28,7 +28,7 @@ export default function Home() {
             </div>
             <div className="py-10">
               <h2 className="text-3xl font-bold text-green-500 mb-2">
-                S'incrire à son compte
+                S &apos; incrire à son compte
               </h2>
               <div className="border-2 border-green-500 w-10 mx-auto mb-2"></div>
               <div className="flex justify-center space-x-1 my-2">
@@ -50,7 +50,7 @@ export default function Home() {
                 >
                   <FaGoogle className="text-sm" />
                 </a>
-              </div>{" "}
+              </div>
               {/** Social media icon */}
               <p className="text-gray-400 my-3">or use your email account</p>
               <div className="flex flex-col items-center space-y-3">
@@ -102,7 +102,7 @@ export default function Home() {
               href=""
               className="border-2 border-white px-12 py-2 rounded-full inline-block font-semibold hover:bg-white hover:text-green-500"
             >
-              S'incrire
+              S &apos; incrire
             </a>
           </div>
           {/** Partie de créationd e compte */}
